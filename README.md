@@ -30,6 +30,16 @@ Project 2 combines Flask with OpenCV and the `face_recognition` library to build
 - Displays a live count of faces detected
 - Streams annotated video to the browser
 
+## Screenshots
+
+### Real-Time Face Recognition
+![Face Recognition](Project%202/screenshots/face_recognition.png)
+*Live detection identifying Devansh*
+
+### Face and Eye Detection
+![Face and Eye Detection](Project%202/screenshots/face_eye_detection.png)
+*Live detection highlighting both faces and eyes*
+
 ## Project Structure
 
 ```
